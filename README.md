@@ -1,11 +1,9 @@
-# PCB-GitHub-Template
-Start with a picture, followed by a brief description.
+# MOAR_CAN
+![MOAR_CAN PCB](.)
 
-### Features
+MOAR_CAN is a [ToqueCAN](.)-compatible 9-port CAN bus hub designed for 3D printers with multiple CAN devices, like toolchanger printers with multiple toolheads. Unlike most CAN bus hub PCBs on the market, MOAR_CAN follows the specs recommened in the standard for 1Mbit CAN. A more detailed explanation of this can be found in the manual.
 
-Only add if there are features worth explaining/listing in a table.
-
-## Purchasing a XXX
+## Purchasing a MOAR_CAN
 ### United States
 - [Isik's Tech](.) (Me)
 
@@ -16,27 +14,7 @@ You can also use the included gerber files to order your own from a PCB manufact
 
 ## Instructions
 
-...
-
-## Versions
-
-Only add if there are multiple MAJOR versions, like KUSBA V1 and V2.
-
-
-
-## Folders
-
-Delete this.
-
-| Folder | For |
-| ------ | --- |
-| CAD | CAD models of the PCB and mounts |
-| Docs | Guides, extra docs |
-| EasyEDA-Source | Source .json files, in version folders |
-| Firmware | Klipper .cfg files, if multiple options available, in sub folders |
-| Gerbers | Gerbers in `Gerbers.zip`, BOM in `BOM.csv`, CPL in `PNP.csv`, in version folders under `Old-Versions` except latest which is in `Latest-Tested-Version`, add a `README.md` with the changelog |
-| Images | Images for docs |
-| Mounts | Mounts for the PCB, add a `README.md` |
+[MOAR_CAN Manual](.)
 
 ## YouTube
 
