@@ -1,20 +1,20 @@
 # MOAR_CAN
-![MOAR_CAN PCB](.)
+![MOAR_CAN PCB](./Images/PCB.png)
 
-MOAR_CAN is a [ToqueCAN](.)-compatible 9-port CAN bus hub designed for 3D printers with multiple CAN devices, like toolchanger printers with multiple toolheads. Unlike most CAN bus hub PCBs on the market, MOAR_CAN follows the specs recommened in the standard for 1Mbit CAN. A more detailed explanation of this can be found in the manual.
+MOAR_CAN is a [ToqueCAN](../../../ToqueCAN)-compatible 8/9-port CAN bus hub designed for 3D printers with multiple CAN devices, like toolchanger printers with multiple toolheads. Unlike most CAN bus hub PCBs on the market, MOAR_CAN follows the specs recommened in the standard for 1Mbit CAN. A more detailed explanation of this can be found in the manual.
 
 ## Purchasing a MOAR_CAN
 ### United States
-- [Isik's Tech](.) (Me)
+- [Isik's Tech](https://store.isiks.tech/products/moar_can) (Me)
 
 This project is licensed under [GPL v3](./LICENSE), meaning vendors are allowed to sell PCBs without paying me. If you'd like to support the development of this and future projects please consider [sponsoring](https://github.com/sponsors/xbst) me on GitHub. You can also subscribe on [Patreon](https://l.isiks.tech/patreon) or [YouTube](https://l.isiks.tech/member).
 
-You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841) or [JLCPCB](https://jlcpcb.com/).
+You can also use the included gerber files to order your own from a PCB manufacturer like [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=374841). Make sure to order 2oz inner layers.
 <br>
 
 ## Instructions
 
-[MOAR_CAN Manual](.)
+[MOAR_CAN Manual](./Docs/MOAR_CAN-Manual.pdf)
 
 ## YouTube
 
