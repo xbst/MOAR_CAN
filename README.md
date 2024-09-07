@@ -1,5 +1,5 @@
 # MOAR_CAN
-![MOAR_CAN PCB](./Images/PCB.png)
+![MOAR_CAN PCB](./Images/PCB.jpg)
 
 MOAR_CAN is a [ToqueCAN](../../../ToqueCAN)-compatible 8/9-port CAN bus hub designed for 3D printers with multiple CAN devices, like toolchanger printers with multiple toolheads. Unlike most CAN bus hub PCBs on the market, MOAR_CAN follows the specs recommened in the standard for 1Mbit CAN. A more detailed explanation of this can be found in the manual.
 
