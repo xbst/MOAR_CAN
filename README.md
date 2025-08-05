@@ -6,6 +6,7 @@ MOAR_CAN is a [ToqueCAN](../../../ToqueCAN)-compatible 8/9-port CAN bus hub desi
 ## Purchasing a MOAR_CAN
 ### United States
 - [Isik's Tech](https://store.isiks.tech/products/moar_can) (Me)
+- [Amazon (Prime Shipping)](https://www.amazon.com/dp/B0FK8Y8FW6?maas=maas_adg_32ECA0EC0E2B09231025D1C3E71E33E2_afap_abs&ref_=aa_maas&tag=maas)
 ### European Union
 - [Alchemy 3D (Germany)](https://alchemy3d.de/products/moar_can-8-9-port-can-hub-by-isik-s-tech)
 
